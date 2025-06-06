@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -8,6 +9,7 @@ int main()
     int row = 5;
 
     // create a variable named width to keep track of the width of the each row and initial it with the value 5. 
+    int width = 5;
 
     // loop over each of the rows using the variable row 
 
